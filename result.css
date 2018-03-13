@@ -1,0 +1,226 @@
+body {
+  font-family: "Arial";
+}
+h1 {
+  font-size: 30px;
+}
+h5 {
+  font-size: 13px;
+  margin-top: 10px;
+  color: grey;
+}
+.searchbar {
+  height: 35px;
+  position: absolute;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  display: inline-block;
+  width: auto;
+  z-index: 6;
+
+}
+.search {
+  height: 35px;
+  width: 635px;
+
+}
+
+.googlelogo {
+  display: inline-block;
+  width: 120px;
+  height: 44px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.topbar {
+  z-index: 5;
+  width: auto;
+  display: block;
+  height: 60px;
+  background-color: #f7f7f7;
+}
+
+.topright {
+  display: block;
+  position: absolute;
+  right: 25px;
+  top: 25px;
+}
+
+.mypic {
+  border-radius: 100%;
+}
+
+.topbar2 {
+  position: absolute;
+  top: 60px;
+  width: 100%;
+  display: block;
+  height: 60px;
+  background-color: #f7f7f7;
+}
+
+.menu {
+  position: absolute;
+  left: 150px;
+  top: 30px;
+}
+.rightmenu {
+  position: absolute;
+  left: 650px;
+  top: 30px;
+}
+
+a {
+  padding-right: 30px;
+  font-family: "Arial";
+  font-size: 13px;
+  color: grey;
+  text-decoration: none;
+}
+.result {
+  font-size: 12px;
+  color: grey;
+  position: absolute;
+  top: 135px;
+  left: 160px;
+}
+
+.box {
+  color: grey;
+  position: relative;
+  top: 80px;
+  left: 160px;
+  display: block;
+  height: auto;
+  width: 580px;
+}
+.box2 {
+  position: absolute;
+  top: 160px;
+  left: 800px;
+  height: 500px;
+  width: 470px;
+}
+#hello2 {
+  width: 114px;
+  height: 91px;
+}
+#hello3 {
+  width: 144px;
+  height: 91px;
+}
+.hello {
+  float: left;
+}
+.hellopic {
+  display: block;
+  height: 210px;
+}
+
+.hellotext {
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  display: block;
+  height: auto;
+
+}
+
+.hellodescription {
+  margin-top: 5px;
+  margin-left: 0;
+  font-size: 13px;
+  border-top: 1px solid grey;
+}
+
+.hellodesctext {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.peoplesearch {
+  margin-top: 15px;
+}
+
+.people {
+  margin-left: 10px;
+  font-size: 18px;
+  color: black;
+}
+.viewmore {
+  float: right;
+}
+.searchpic {
+  margin-top: 10px;
+  height: 90px;
+  width: auto;
+}
+.pics {
+  float: left;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 0;
+  width: auto;
+}
+.webname {
+  margin-top: 20px;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.link {
+  font-size: 14px;
+  color: green;
+  margin-bottom: 3px;
+}
+.description {
+  line-height: 17px;
+  color: black;
+  font-size: 13px;
+}
+.others {
+  color: #1a0dab;
+  font-size: 13px;
+
+}
+.webtext {
+  font-size: 18px;
+  color: #1a0dab;
+  text-decoration: none;
+}
+.related {
+  font-size: 17px;
+  color: black;
+  position: relative;
+  top: 40px;
+}
+
+.searchrelated {
+  position: relative;
+  top: 50px;
+}
+
+.secondcolumn {
+  position: absolute;
+  left: 200px;
+  top: 0;
+}
+
+li {
+  font-size: 15px;
+  line-height: 10px;
+  color: #1a0dab;
+}
+
+.navbar1 {
+    font-size: 13px;
+    background-color: #ededed;
+    position: relative;
+    left: 0;
+    bottom: -150px;
+    width: auto;
+    height: 25px;
+    padding: 15px 30px 0px 30px;
+    border-top: solid 2px #e8e8e8;
+}
